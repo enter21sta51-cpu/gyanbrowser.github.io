@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://realgyanbrowser.github.io/sitemap.xml
